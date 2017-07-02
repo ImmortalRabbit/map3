@@ -95,7 +95,7 @@ video{
 .title>.second-line{
   left: 60%;
 }
-.block_news{
+  .block_news{
   position: relative;
   width: 25%;
   height: 250px;
@@ -456,4 +456,26 @@ video{
     .butt{
       background: transparent;
     }
+    .circle1{
+        display: none;
+    }
+    .circle2{
+        display: none;
+    }
+    .circle3{
+        display: none;
+    }
+    .circle1_text{
+      display: none;
+    }
+    .circle2_text{
+      display: none;
+    }
+    .circle3_text{
+      display: none;
+    }
+    .abouts{
+      margin-bottom: 0;
+    }
+
 }
